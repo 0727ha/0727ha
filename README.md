@@ -1,9 +1,6 @@
 
 <!--타이틀 부분-->
-<div align="center">
-![header](https://capsule-render.vercel.app/api?type=waving&color=timeGradient&text=Welcome%20to%20hayoung'%20GitHub%20👋&animation=twinkling&fontSize=35&fontAlignY=40&fontAlign=70&height=250)
 
-</div>
 
 <!--내용 부분-->
 <h3 align="center">✨ Tech Stack ✨</h3>
@@ -20,12 +17,15 @@
 
 <br>
 
-<h3 align="center">👩‍💻 My Github Stats 👩‍💻</h3>
+<h3 align="center">👩‍💻 👩‍💻</h3>
 <div align="center">
-
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=hayoung&hide_title=true&show_icons=true&include_all_commits=true&disable_animations=true&theme=vue)](https://github.com/0727ha/github-readme-stats)
+![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=hayoung)
 </div>
 
+<h3 align="center"></h3>
+<div align="center">
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=0727ha&layout=compact)
+</div>
 
 <h3 align="center">📫 Contact 📫</h3>
 <div align="center">
