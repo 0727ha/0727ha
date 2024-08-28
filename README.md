@@ -1,7 +1,8 @@
 
 <!--타이틀 부분-->
 
-
+！[header](https://capsule-render.vercel.app/api?type=slice&color=auto&height=300&section=h
+eader&text=HayoungPark&fontSize=90)
 <!--내용 부분-->
 <h3 align="center">✨ Tech Stack ✨</h3>
 <div align="center">
@@ -17,15 +18,6 @@
 
 <br>
 
-<h3 align="center">👩‍💻 👩‍💻</h3>
-<div align="center">
-![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=hayoung)
-</div>
-
-<h3 align="center"></h3>
-<div align="center">
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=0727ha&layout=compact)
-</div>
 
 <h3 align="center">📫 Contact 📫</h3>
 <div align="center">
