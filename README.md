@@ -1,9 +1,8 @@
 
 <!--타이틀 부분-->
 <div align="center">
-  https://capsule-render.vercel.app/api?
-  ![header](https://capsule-render.vercel.app/api?type=wave&color=auto&height=300&section=header&text= HI ! I'm hayoung park&fontSize=90)
- <img src="https://capsule-render.vercel.app/api?type=wave&color=auto&height=300&section=header&text=capsule%20render&fontSize=90" />
+![header](https://capsule-render.vercel.app/api?type=waving&color=timeGradient&text=Welcome%20to%20hayoung'%20GitHub%20👋&animation=twinkling&fontSize=35&fontAlignY=40&fontAlign=70&height=250)
+
 </div>
 
 <!--내용 부분-->
@@ -12,6 +11,8 @@
   <img src="https://img.shields.io/badge/react-20232a.svg?style=for-the-badge&logo=react&logoColor=61DAFB" />&nbsp
    <img src="https://img.shields.io/badge/Javascript-ffb13b?style=flat-square&logo=javascript&logoColor=white"/></a>&nbsp 
   <img src="https://img.shields.io/badge/typescript-007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white" />&nbsp
+</div>
+<div align="center">
   <img src="https://img.shields.io/badge/html5-E34F26.svg?style=for-the-badge&logo=html5&logoColor=white" />&nbsp
    <img src="https://img.shields.io/badge/Java-007396?style=flat-square&logo=Java&logoColor=white"/></a>&nbsp
    
@@ -19,12 +20,11 @@
 
 <br>
 
-<h3 align="center">👩‍💻 👩‍💻</h3>
+<h3 align="center">👩‍💻 My Github Stats 👩‍💻</h3>
 <div align="center">
-  ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=hayoung&show_icons=true&theme=radical)
-  ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&layout=compact)
-</div>
 
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=hayoung&hide_title=true&show_icons=true&include_all_commits=true&disable_animations=true&theme=vue)](https://github.com/0727ha/github-readme-stats)
+</div>
 
 
 <h3 align="center">📫 Contact 📫</h3>
